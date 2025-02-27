@@ -47,6 +47,7 @@ button {
   margin-bottom: 2px;
   font-weight: bold;
   padding: 10px;
+  overflow: hidden;
 }
 
 #btn-plus,
