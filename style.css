@@ -17,6 +17,7 @@ body {
   width: 600px;
   height: 715px;
   padding-top: 6px;
+  flex-shrink: 0;
 }
 
 button {
